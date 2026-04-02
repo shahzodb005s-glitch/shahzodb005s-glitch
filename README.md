@@ -12,4 +12,4 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 
 ### Моя статистика:
-![Моя статистика GitHub](https://github-readme-stats.vercel.app/api?username=Shahzod-Dev&show_icons=true&theme=dark)
+![Статистика](https://github-readme-stats.vercel.app/api?username=shahzodb005s-glitch&show_icons=true&theme=transparent)
