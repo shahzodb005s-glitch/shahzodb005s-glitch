@@ -13,3 +13,6 @@
 
 ### Моя статистика:
 ![Статистика Shahzod](https://github-readme-stats-sigma-five.vercel.app/api?username=shahzodb005s-glitch&show_icons=true&theme=tokyonight)
+## 📮 Как со мной связаться:
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yond6)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahzodb005s@gmail.com)
