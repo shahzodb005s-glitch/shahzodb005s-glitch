@@ -1,16 +1,15 @@
-## Hi there 👋
+# Привет! Я начинающий разработчик 👋
 
-<!--
-**shahzodb005s-glitch/shahzodb005s-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Обо мне:
+- 🚀 Сейчас я активно изучаю **JavaScript** и создание серверов на **Node.js**.
+- 🛠 Мой основной стек: **HTML5, CSS3 (Flexbox/Grid), Tailwind CSS**.
+- 👨‍💻 Люблю верстать адаптивные сайты и решать логические задачи на JS.
 
-Here are some ideas to get you started:
+### Мои технологии:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Моя статистика:
+![Моя статистика GitHub](https://github-readme-stats.vercel.app/api?username=shahzodb005s-glitch&show_icons=true&theme=dark)
