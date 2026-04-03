@@ -28,5 +28,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Terminal](https://img.shields.io/badge/Kali%20Terminal-4D4D4D?style=for-the-badge&logo=gnumeterminal&logoColor=white)
 ### 🛠 Статус разработки:
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shahzodb005s-glitch&layout=compact&theme=tokyonight)
