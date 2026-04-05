@@ -5,6 +5,9 @@
 - 🛠 Мой основной стек: **HTML5, CSS3 (Flexbox/Grid), Tailwind CSS**.
 - 👨‍💻 Люблю верстать адаптивные сайты и решать логические задачи на JS.
 
+  ### МОЁ ПОРТФОЛИО
+  - https://partfolio-shahzod.netlify.app/
+
 ### Мои технологии:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
